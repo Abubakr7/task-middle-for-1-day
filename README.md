@@ -1,4 +1,4 @@
-# In this task I'm used reduxtolkit becausce it's new technology in redux.
+# In this task I'm used reduxtoolkit becausce it's new technology in redux.
 
 
 # Getting Started with Create React App
