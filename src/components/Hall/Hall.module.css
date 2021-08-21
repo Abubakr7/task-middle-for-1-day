@@ -1,0 +1,19 @@
+.red {
+    background-color: rgb(185, 45, 45);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 500px;
+    margin-top: 10px;
+    color: white;
+}
+
+.blue {
+    background-color: rgb(62, 62, 218);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 500px;
+    margin-top: 10px;
+    color: white;
+}
