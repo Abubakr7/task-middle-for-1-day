@@ -1,3 +1,6 @@
+# In this task I'm used reduxtolkit becausce it's new technology in redux.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
